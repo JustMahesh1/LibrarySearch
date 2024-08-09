@@ -230,7 +230,7 @@ else:
         st.write("No books found matching the keyword.")
 
 
-st,markdown("Some features are optimized for desktop. Consider switching for a more complete view.")
+st.markdown("Some features are optimized for desktop. Consider switching for a more complete view.")
 # Add copyright notice at the end
 st.markdown("<footer style='text-align: center; padding: 10px;'><p>&copy; 2024 SIWS Library Dept. All rights reserved.</p></footer>", unsafe_allow_html=True)
 
