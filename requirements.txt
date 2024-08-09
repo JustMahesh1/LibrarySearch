@@ -1,0 +1,5 @@
+1. pandas
+2. streamlit
+3. PIL
+4. requests
+5. io
