@@ -56,7 +56,7 @@ if theme == "Light":
     }
     .stApp {
         background-color: #ffffff;
-        color: #000000;
+        color: #800000;
     }
     .card {
         background: linear-gradient(145deg, #ffffff, #e0e0e0);
