@@ -51,12 +51,12 @@ if theme == "Light":
     <style>
     body {
         background-color: #f5f5f5;
-        color: #800000;
+        color: #ffa500;
         font-family: Arial, sans-serif;
     }
     .stApp {
         background-color: #ffffff;
-        color: #800000;
+        color: #ffa500;
     }
     .card {
         background: linear-gradient(145deg, #ffffff, #e0e0e0);
