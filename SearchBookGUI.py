@@ -51,7 +51,7 @@ if theme == "Light":
     <style>
     body {
         background-color: #f5f5f5;
-        color: #333;
+        color: #800000;
         font-family: Arial, sans-serif;
     }
     .stApp {
